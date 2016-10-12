@@ -1,0 +1,13 @@
+Hi,
+
+I thought about having this file for questions/feedback. Please let me know if it makes sense or not.
+
+
+Here’s what I come up with:
+
+1. I pushed my solution for displaying the alerts on iOS and Android, as it was the course homework. 
+
+But, I could only test it on iOS, the Android Emulator seems not to be working anymore.
+PS. this time is have 100GB free on my computer, so no lack of space issues this time:)
+
+2. You also mentioned that the Exception handling could be done better. Should I try implement a custom exception class in C#, or what would be your suggestion for it?

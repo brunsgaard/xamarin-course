@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<resources>
+	<item name="purple" type="color">#6A0CE8</item>
+	<item name="rose" type="color">#E50CE8</item>
+	<item name="red" type="color">#FF0000</item>
+</resources>
+
